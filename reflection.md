@@ -32,4 +32,4 @@ A lot of trial and error was required to get everything into the right position.
 
 ### Media Queries
 
-Lorem ipsum
+I was able to get the background color to change depending on the window size. It was mostly review from the slides in class. The hard part was matching the navbar style exactly to the screenshot. I ended up following a lot of the instructions from the video. It seems like fine tuning a page's layout takes a lot of trial and error.
