@@ -4,9 +4,49 @@
 
 /* Flex Container 1 */
 
+* {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.flex-item {
+  box-sizing: border-box;
+  background-color: purple;
+  color: white;
+  width: 150px;
+  height: 150px;
+  margin: 5px;
+  font-size: 4em;
+}
+
+.flex-container-1 {
+  justify-content: center;
+}
+
 /* Flex Container 2 */
 
+.flex-container-2 {
+  flex-direction: row-reverse;
+}
+
 /* Flex Container 3 */
+
+/*
+.flex-container-3 {
+  justify-content: flex-end;
+  gap: 35%;
+}
+*/
+.flex-container-3 {
+  flex-flow: column-reverse wrap;
+  align-items: flex-end;
+  height: 700px;
+}
 
 /* use height: 400px; on the container */
 
