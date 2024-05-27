@@ -36,6 +36,8 @@ I was able to get the background color to change depending on the window size. I
 
 ## Flexbox
 
+The flexbox examples required a lot of trial and error to nail down the layout. Many of the attributes required me to just see what happened when I applied them. I ended up skimming through the video to with my answers. Most of it was very similar with a few changes to certain numbers. The part that took the longest was container 5 because there were 3 different heights that had to be set for the flex items.
+
 ## CSS Grid
 
 ## Bootstrap
