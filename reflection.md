@@ -59,3 +59,25 @@ This exercise was similar to the last grid exercise but it took a tiny bit longe
 ### Modal
 
 This exercise took the longest out of all the Bootstrap exercises because there were many elements of the modal dialog box that I needed to look up in the documentation. I was able to do most of it without the video but I forgot to add the little "X" to close the modal dialog bopx. My implementation was slightly different than the one shown in the video but the overall layout is the same.
+
+## JavaScript
+
+### Replace
+
+I had to refer to the documentation to see how to format regular expressions. There is a table in the middle of the page that shows the different flags that can be used. I used the 'gi' flags to match all instances and make the search case-insensitive.
+
+### Format
+
+I was complete most of the function without looking anything up. I remembered arrow functions and the .join method being covered in class so I immediately used those. The only thing I did not remember was the map() method to apply a function to each element in an array.
+
+### Objects
+
+I originally tried to use the dot notation to insert and access keys in the object. After some reading through the documentation I realized that dot notation is for accessing static keys that are known beforehand. The key being passed into the functions is evaluated at runtime so I needed to use bracket notation. Apart from that minor hiccup, most of the exercise was simple to complete.
+
+### DOM
+
+### Destructuring
+
+### Fetch
+
+### Functional
