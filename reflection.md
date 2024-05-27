@@ -57,3 +57,5 @@ This exercise was very easy to do because the lecture and slides cover everythin
 This exercise was similar to the last grid exercise but it took a tiny bit longer. I still relied on the same Bootstrap documentation page as the last exercise but I needed to play around with the different column sizes and breakpoints to match the screenshots. It took me a couple extra minutes but I was able to recreate the layout with minimal trial and error.
 
 ### Modal
+
+This exercise took the longest out of all the Bootstrap exercises because there were many elements of the modal dialog box that I needed to look up in the documentation. I was able to do most of it without the video but I forgot to add the little "X" to close the modal dialog bopx. My implementation was slightly different than the one shown in the video but the overall layout is the same.
