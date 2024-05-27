@@ -84,4 +84,6 @@ This exercise tripped me up a little because I did not provide the full path for
 
 ### Fetch
 
+I closely followed the video for this exercise. There were many things that I had never used in practice before like the .then and .finally methods. I also forgot that I needed to append elements to the DOM after I created them. The process of creating and adding elements was tricky for me. This exercise took me the longest out of all the JavaScript exercises so far.
+
 ### Functional
