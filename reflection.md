@@ -54,4 +54,6 @@ This exercise was very easy to do because the lecture and slides cover everythin
 
 ### Grid 2/2
 
+This exercise was similar to the last grid exercise but it took a tiny bit longer. I still relied on the same Bootstrap documentation page as the last exercise but I needed to play around with the different column sizes and breakpoints to match the screenshots. It took me a couple extra minutes but I was able to recreate the layout with minimal trial and error.
+
 ### Modal
