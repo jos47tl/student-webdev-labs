@@ -40,4 +40,6 @@ The flexbox examples required a lot of trial and error to nail down the layout. 
 
 ## CSS Grid
 
+The first exercise was very simple and straightforward. The lecture and slides provided enough context for me to quickly create the column and row templates. The fractional unit "fr" made it very easy to guess what the units should be from just looking at the examples. For the second exercise, I needed to watch the video to remember to setup grid areas for each HTML class. Once that was done, however, it became a simple matter of using media queries and copy-pasting the grid container attributes and modifying them to match the screenshots.
+
 ## Bootstrap
