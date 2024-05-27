@@ -76,6 +76,8 @@ I originally tried to use the dot notation to insert and access keys in the obje
 
 ### DOM
 
+I am completely new to JavaScript and there was a lot of material covered over mutliple lectures so I had to have my memory refreshed before doing this exercise. Watching the lecture and example video gave me a good start but I still needed to refer back to the example video when the input button wasn't doing what I wanted. It took me a while to notice that there was a small error in the video for the first part because an id selector was used instead of a class selector.
+
 ### Destructuring
 
 ### Fetch
