@@ -43,3 +43,15 @@ The flexbox examples required a lot of trial and error to nail down the layout. 
 The first exercise was very simple and straightforward. The lecture and slides provided enough context for me to quickly create the column and row templates. The fractional unit "fr" made it very easy to guess what the units should be from just looking at the examples. For the second exercise, I needed to watch the video to remember to setup grid areas for each HTML class. Once that was done, however, it became a simple matter of using media queries and copy-pasting the grid container attributes and modifying them to match the screenshots.
 
 ## Bootstrap
+
+### Cards
+
+The most helpful resource for this exercise was the Bootstrap documentation. I looked for examples on the page that matched what I needed and followed their examples. There were some differences between my work and the example video so I made some small changes to match it. One example of this is getting rid of inline styles. I forgot that inline styling is usually frowned upon so I copied the video. I also keep forgetting which kind of button is preferred so I used the video example for that as well.
+
+### Grid 1/2
+
+This exercise was very easy to do because the lecture and slides cover everything needed. Unlike most exercises, there was no trial and error on my part. I got the layout correct on the first try because it is a relatively simple layout and Bootstrap has an easy-to-use 12 column system.
+
+### Grid 2/2
+
+### Modal
