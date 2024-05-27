@@ -80,6 +80,8 @@ I am completely new to JavaScript and there was a lot of material covered over m
 
 ### Destructuring
 
+This exercise tripped me up a little because I did not provide the full path for the mother and father attributes (I forgot the "allegiance" property before the "parents"). I also accidentally used single quotes instead of backticks so I was creating a string instead of a template literal. Other than that, I was able to complete this exercise without much trouble.
+
 ### Fetch
 
 ### Functional
