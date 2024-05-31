@@ -12,6 +12,6 @@ $(document).ready(function () {
 
 $(document).ready(function () {
   $("#userInput2").on("input", function () {
-    $("#output2").text($("#userInput2").val());
+    $("#output2").text($(this).val());
   });
 });
