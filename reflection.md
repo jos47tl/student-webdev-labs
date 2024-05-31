@@ -89,3 +89,11 @@ I closely followed the video for this exercise. There were many things that I ha
 ### Functional
 
 I completed the map and filter functions with only the slides for reference. They were relatively intuitive to create. The third function took much longer as I tried to wrap my head around reducers and accumulators. I had to read the documentation and watch the example video to get an idea of what to do. The video showed the usage of the ternary operator. It has the same formatting as C ternary operators and I have used ternary operators in Python as well so it was a pleasant surprise to see them show up in JavaScript as well.
+
+## jQuery
+
+### DOM
+
+This exercise was a useful demonstration of chaining in jQuery. I originally rewrote the code to just use the jQuery method of selecting elements with $. But when I started watching the example videos I immediately realized that I was writing more lines than I needed to. I was declaring variables with "let" but with chaining I reduced it all down to a few lines. The lectures and slides explained it but I needed to get some practice in to fully understand how helpful chaining is.
+
+### Fetch
