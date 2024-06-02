@@ -97,3 +97,5 @@ I completed the map and filter functions with only the slides for reference. The
 This exercise was a useful demonstration of chaining in jQuery. I originally rewrote the code to just use the jQuery method of selecting elements with $. But when I started watching the example videos I immediately realized that I was writing more lines than I needed to. I was declaring variables with "let" but with chaining I reduced it all down to a few lines. The lectures and slides explained it but I needed to get some practice in to fully understand how helpful chaining is.
 
 ### Fetch
+
+The previous DOM exercise was good practice for this exercise because it helped me familiarize myself with the jQuery syntax. I was able to recreate most of the JavaScript code without referring to the video. The jQuery .css method for adding CSS styling was a little unfamiliar to me so I watched the video and looked at the slides for a little help. Overall, these two exercises were good for getting practice with using jQuery to speed up JavaScript development. I would say that after doing both that I am comfortable with writing jQuery for the JavaScript topics that were covered in class.
