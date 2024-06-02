@@ -2,6 +2,14 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  font-size: 1em;
+}
+
+.modal-header h2 {
+  font-size: 1.25em;
+}
+
 form {
   width: 600px;
 }

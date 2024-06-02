@@ -10,7 +10,7 @@ $(document).ready(() => {
           alignItems: "center",
           marginTop: "20px",
         })
-        .append($("<h3>").text(item.name))
+        .append($("<h2>").text(item.name).css({ fontSize: "1.75em" }))
         .append($("<p>").text(item.authors[0]))
         .append($("<p>").text(item.released.substr(0, 4)))
         .append($("<p>").text(`${item.numberOfPages} pages`))
